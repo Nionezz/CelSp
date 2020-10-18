@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns   = "http://www.w3.org/ns/widgets"
+    xmlns:gap   = "http://phonegap.com/ns/1.0"
+    id          = "com.celgap.example"
+    versionCode = "10"
+    version     = "1.6.9" >
+
+<!-- versionCode is optional and Android only -->
+
+  <name>Cel i sp Example</name>
+
+  <description>
+      cwiczenia na cela i spostrzegawczosc.
+  </description>
+
+  <author href="https://discord.gg/q9azch5" email="franek.mazurek2017@gmail.com">
+      Hardeep Shoker
+  </author>
+  <icon src="icon.png" />
+</widget>
